@@ -1,0 +1,5 @@
+C:\Users\User\source\repos\Task_Rubegh\obj\Debug\net6.0\Task_Rubegh.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Task_Rubegh\obj\Debug\net6.0\Task_Rubegh.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Task_Rubegh\obj\Debug\net6.0\Task_Rubegh.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Task_Rubegh\obj\Debug\net6.0\Task_Rubegh.AssemblyInfo.cs
+C:\Users\User\source\repos\Task_Rubegh\obj\Debug\net6.0\Task_Rubegh.csproj.CoreCompileInputs.cache
